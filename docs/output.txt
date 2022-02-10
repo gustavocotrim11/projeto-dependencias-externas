@@ -1,0 +1,90 @@
+Turma Java
+Total de alunos =  10
+Lista de alunos da turma:
+Alexandre Martins
+Natália Gomes
+Thomas Peixoto
+Thales Farias
+Esther Rodrigues
+Letícia Cunha
+Lavínia Cunha
+Srta. Ana Júlia Ramos
+Yago Ramos
+Vitor Hugo Lima
+
+Turma Banco de dados
+Total de alunos =  12
+Lista de alunos da turma:
+Natália Gomes
+Luiz Miguel Azevedo
+Thales Farias
+Esther Rodrigues
+Nathan Nascimento
+Letícia Cunha
+Lavínia Cunha
+Srta. Ana Júlia Ramos
+Yago Ramos
+Dra. Lavínia Lopes
+Dra. Alana Porto
+Vitor Hugo Lima
+
+Lista geral ordenada de alunos:
+Alexandre Martins
+Dra. Alana Porto
+Dra. Lavínia Lopes
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Srta. Ana Júlia Ramos
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos
+Turma Java
+Total de alunos =  10
+Lista de alunos da turma:
+Thales Farias
+Esther Rodrigues
+Alexandre Martins
+Srta. Ana Júlia Ramos
+Vitor Hugo Lima
+Natália Gomes
+Thomas Peixoto
+Yago Ramos
+Lavínia Cunha
+Letícia Cunha
+
+Turma Banco de dados
+Total de alunos =  12
+Lista de alunos da turma:
+Thales Farias
+Esther Rodrigues
+Srta. Ana Júlia Ramos
+Dra. Lavínia Lopes
+Dra. Alana Porto
+Nathan Nascimento
+Luiz Miguel Azevedo
+Vitor Hugo Lima
+Natália Gomes
+Yago Ramos
+Lavínia Cunha
+Letícia Cunha
+
+Lista geral ordenada de alunos:
+Alexandre Martins
+Dra. Alana Porto
+Dra. Lavínia Lopes
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Srta. Ana Júlia Ramos
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos

@@ -4,8 +4,8 @@
   Santander Coders - Let's Code
 </p>
 
-    Projeto final do módulo de Dependências Externas.
-    Desejável:
+   Projeto final do módulo de Dependências Externas.
+   Desejável:
 * Aplicar principios da OO
 * Utilizar um gerenciador de pacotes ( Maven / Gradle)
 * Utilizar Lombok
@@ -14,7 +14,7 @@
 * Gerar os arquivos de saida para cada
    
 
-    Precisa ser inserida 2 funcionalidades.
+   Precisa ser inserida 2 funcionalidades.
 * Imprimir cada turma e seus alunos
     * Nome da turma
     * Total alunos

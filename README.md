@@ -7,20 +7,20 @@
 <p align="left">
   Projeto final do módulo de Dependências Externas.
   Desejável:
-    - Aplicar principios da OO
-    - Utilizar um gerenciador de pacotes ( Maven / Gradle)
-    - Utilizar Lombok
-    - Utilziar pelo menos 2 dependencias
-    - Utuilziar pelo menos 2 estrutura de dados distintas
-    - Gerar os arquivos de saida para cada
+    * Aplicar principios da OO
+    * Utilizar um gerenciador de pacotes ( Maven / Gradle)
+    * Utilizar Lombok
+    * Utilziar pelo menos 2 dependencias
+    * Utuilziar pelo menos 2 estrutura de dados distintas
+    * Gerar os arquivos de saida para cada
    
    Precisa ser inserida 2 funcionalidades.
-    - Imprimir cada turma e seus alunos
-      - Nome da turma
-      - total alunos
-      - nome dos alunos
-    - imprimir todos os alunos da escola ( sem duplicados, ja que existem alunos nas duas turmas) em ordem alfabetica
-      - As impressões deverão ser geradas em um arquivo.txt
+    * Imprimir cada turma e seus alunos
+      1. Nome da turma
+      2. total alunos
+      3. nome dos alunos
+    * imprimir todos os alunos da escola ( sem duplicados, ja que existem alunos nas duas turmas) em ordem alfabetica
+      1. As impressões deverão ser geradas em um arquivo.txt
 </p>
 
 
